@@ -1,0 +1,1 @@
+{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"footballstadium:stadium_light"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}

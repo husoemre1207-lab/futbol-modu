@@ -1,0 +1,14 @@
+{
+ "itemGroup.footballstadium": "Futbol Stadyumu",
+ "block.footballstadium.pitch_grass": "Saha Çimi (Koyu)",
+ "block.footballstadium.pitch_grass_light": "Saha Çimi (Açık)",
+ "block.footballstadium.pitch_line": "Saha Çizgisi",
+ "block.footballstadium.stadium_seat": "Tribün Koltuğu",
+ "block.footballstadium.goal_post": "Kale Direği",
+ "block.footballstadium.goal_net": "Kale Ağı",
+ "block.footballstadium.stadium_light": "Stadyum Projektörü",
+ "item.footballstadium.football": "Futbol Topu",
+ "item.footballstadium.whistle": "Hakem Düdüğü",
+ "item.footballstadium.yellow_card": "Sarı Kart",
+ "item.footballstadium.red_card": "Kırmızı Kart"
+}

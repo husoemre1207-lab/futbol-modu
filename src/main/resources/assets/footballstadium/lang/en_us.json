@@ -1,0 +1,14 @@
+{
+ "itemGroup.footballstadium": "Football Stadium",
+ "block.footballstadium.pitch_grass": "Pitch Grass (Dark)",
+ "block.footballstadium.pitch_grass_light": "Pitch Grass (Light)",
+ "block.footballstadium.pitch_line": "Pitch Line",
+ "block.footballstadium.stadium_seat": "Stadium Seat",
+ "block.footballstadium.goal_post": "Goal Post",
+ "block.footballstadium.goal_net": "Goal Net",
+ "block.footballstadium.stadium_light": "Stadium Floodlight",
+ "item.footballstadium.football": "Football",
+ "item.footballstadium.whistle": "Referee Whistle",
+ "item.footballstadium.yellow_card": "Yellow Card",
+ "item.footballstadium.red_card": "Red Card"
+}

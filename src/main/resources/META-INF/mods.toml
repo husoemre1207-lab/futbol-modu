@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="footballstadium"
+version="1.0.0"
+displayName="Futbol Stadyumu Esyalari"
+description='''Futbol stadyumu icin toplar, cimen, kale, tribun, projektor, dusuk ve kartlar.'''
+
+[[dependencies.footballstadium]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.footballstadium]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
